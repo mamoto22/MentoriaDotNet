@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m0nVbcy2dfk=",
+  "dgSpecHash": "dP6EwxgplAD3qUN/kYMiUQSMtrt8nnXtO7kafBQEfGfPOoWhKktdOKeC+mQhMsQzpp0zgB4eYSj7Cd33vhRCVA==",
   "success": true,
-  "projectFilePath": "D:\\CursosDeProgramação\\C#\\ProjetoUBC\\TesteUBC\\src\\TesteUBC.Domain\\TesteUBC.Domain.csproj",
+  "projectFilePath": "/root/projects/MentoriaDotNet/src/TesteUBC.Domain/TesteUBC.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
